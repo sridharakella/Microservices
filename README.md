@@ -19,6 +19,6 @@ Create a Service registry
 7. cf push
 8. Access the service registry to see apps are binded to service registry 
 9. Try accessing the microservice url to test the communication between microservices
-http://<url>/currency-exchange/from/USD/to/INR to verify the results
+http://url-name/currency-exchange/from/USD/to/INR to verify the results
 
 
